@@ -26,7 +26,7 @@ Register → Discover → Pay (x402) → Build Reputation
 | Repo | Description |
 |------|-------------|
 | [**retype-docs**](https://github.com/nexum-so/retype-docs) | Protocol documentation — [docs.nexum.so](https://docs.nexum.so) |
-| [**landing**](https://github.com/nexum-so/landing) | Landing page — [nexum.so](https://nexum.so) |
+| [**nexum-landing**](https://github.com/nexum-so/nexum-landing) | Landing page — [nexum.so](https://nexum.so) |
 
 ### Links
 
